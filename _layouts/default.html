@@ -8,7 +8,7 @@
     <div class="container content">
       <header class="masthead">
         <h3 class="masthead-title">
-          <a style="font-family:pasajero;" href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
         </h3>
         <hr>
         <!-- {% include menu.html %} -->
@@ -19,9 +19,32 @@
 
       </header>  <!-- THIS IS A TERRIBLE HACK TO FIX THE SPACING. TODO: FIX -->
 
+      <head>
+        <style>
+          a
+          {
+            font-family: 'VT323', monospace;
+          }
+        </style>
+          h1 {
+              font-size: 20px;
+               padding-right: 20px;
+               display: inline-block;
+            }
+
+    h1 span {
+               width: 20px;
+               margin-bottom: -1px;
+              height: 2px;
+              background: black;
+              opacity: 0;
+              display: inline-block;
+            }
+      </head>
+
       <footer class="footer">
         <small>
-          &copy; {{ site.title }} <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
+          &copy;{{ site.title }} <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
         </small>
       </footer>
     </div>
