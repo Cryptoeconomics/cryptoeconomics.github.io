@@ -1,6 +1,6 @@
 ---
 layout: investment
-title: "Investment Advice: Alts"
+title: "Investment Advice: Alts &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp (In Progress)"
 ---
 
 What is Lorem Ipsum?

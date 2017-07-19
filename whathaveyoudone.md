@@ -1,6 +1,6 @@
 ---
 layout: society
-title: What Have You Done For Me Lately?
+title: What Have You Done For Me Lately? (Soliciting Contributions)
 ---
 
 What is Lorem Ipsum?

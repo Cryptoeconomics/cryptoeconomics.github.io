@@ -1,6 +1,6 @@
 ---
 layout: philosophy
-title: Systems of Trust
+title: Systems of Trust (In Progress)
 ---
 
 What is Lorem Ipsum?

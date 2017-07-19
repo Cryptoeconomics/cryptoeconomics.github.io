@@ -1,6 +1,6 @@
 ---
 layout: introduction
-title: Smart Contracts and the Programmable Blockchain
+title: Smart Contracts and the Programmable Blockchain &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp(In Progress)
 ---
 
 What is Lorem Ipsum?

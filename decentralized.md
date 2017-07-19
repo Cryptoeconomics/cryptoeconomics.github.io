@@ -1,6 +1,6 @@
 ---
 layout: introduction
-title: Decentralized, Peer-to-Peer, Open Source
+title: Decentralized, Peer-to-Peer, Open Source (Soliciting Contributions)
 ---
 
 What is Lorem Ipsum?

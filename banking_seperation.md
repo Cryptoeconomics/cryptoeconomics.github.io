@@ -1,6 +1,6 @@
 ---
 layout: philosophy
-title: Central Banking and the Separation of Money and State
+title: Central Banking and the Separation of Money and State &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp (Soliciting Contributions)
 ---
 
 What is Lorem Ipsum?

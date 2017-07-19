@@ -1,6 +1,6 @@
 ---
 layout: investment
-title: "Investment Advice: BTC"
+title: "Investment Advice: BTC &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp (In Progress)"
 ---
 
 What is Lorem Ipsum?

@@ -1,6 +1,6 @@
 ---
 layout: philosophy
-title: The Internet That Never Was
+title: The Internet That Never Was (Soliciting Contributions)
 ---
 
 What is Lorem Ipsum?

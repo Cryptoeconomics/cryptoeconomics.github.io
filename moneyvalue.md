@@ -1,6 +1,6 @@
 ---
 layout: philosophy
-title: Why is Money Valuable?
+title: Why is Money Valuable? &nbsp &nbsp &nbsp (Soliciting Contributions)
 ---
 
 What is Lorem Ipsum?
