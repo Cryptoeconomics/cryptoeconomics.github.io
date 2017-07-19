@@ -1,6 +1,6 @@
 ---
 layout: technical
-title: Scaling, Speed, and Energy Costs
+title: Scaling, Speed, and Energy Costs <font color="grey" size="4">(Soliciting Contributions)</font>
 ---
 
 What is Lorem Ipsum?
