@@ -8,7 +8,7 @@
     <div class="container content">
       <header class="masthead">
         <h3 class="masthead-title">
-          <a rel="stylesheet" class="masthead-title" href="{{ site.baseurl }}/" title="Home">{{ site.title }}: Collected Writings on Technological Trust</a>
+          <a rel="stylesheet" class="masthead-title" href="{{ site.baseurl }}/" title="Home">{{ site.title }}: Collected Writings on Technological Trust<span class="blinking-cursor">&#x275A</span></a>
         </h3>
         <hr class="masthead"> <!-- This creates space but hack is bad -->
 
@@ -26,16 +26,24 @@
 
           }
 
-          h3
+          b.menu
           {
-            font-size: 1.55em;
+            font-size: 1.15em;
             font-family: 'VT323', monospace;
             font-weight: normal;
+            color: #00FF00;
+          }
+          h3
+          {
+            font-size: 1.52em;
+            font-family: 'VT323', monospace;
+            font-weight: normal;
+            color: #515151;
 
           }
           h3.masthead-title.book-section
           {
-            font-size: 1.4em;
+            font-size: 1.37em;
             margin-bottom: 10px;
           }
           h3.masthead-title.book-section.menu
@@ -86,6 +94,64 @@
             text-indent: 0px;
             font-size: 0.97em;
             margin-bottom: 10px;
+          }
+          a.matrix{
+            font-size: 10em;
+          }
+          .blinking-cursor {
+            font-weight: 100;
+            font-size: 30px;
+            /*color: #2E3D48;*/
+            -webkit-animation: 1s blink step-end infinite;
+            -moz-animation: 1s blink step-end infinite;
+            -ms-animation: 1s blink step-end infinite;
+            -o-animation: 1s blink step-end infinite;
+            animation: 1s blink step-end infinite;
+          }
+
+          @keyframes "blink" {
+            from, to {
+              color: transparent;
+            }
+            50% {
+              color: #515151;
+            }
+          }
+
+          @-moz-keyframes blink {
+            from, to {
+              color: transparent;
+            }
+            50% {
+              color: #515151;
+            }
+          }
+
+          @-webkit-keyframes "blink" {
+            from, to {
+              color: transparent;
+            }
+            50% {
+              color: #515151;
+            }
+          }
+
+          @-ms-keyframes "blink" {
+            from, to {
+              color: transparent;
+            }
+            50% {
+              color: #515151;
+            }
+          }
+
+          @-o-keyframes "blink" {
+            from, to {
+              color: transparent;
+            }
+            50% {
+              color: #515151;
+            }
           }
         </style>
       </head>
