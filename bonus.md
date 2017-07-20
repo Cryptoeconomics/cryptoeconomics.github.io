@@ -1,6 +1,6 @@
 ---
 layout: bonus
-title: Buying, Selling, and Securing Digital Assets
+title: Buying, Selling, and Securing Digital Assets <a href="/contribute"><font color="grey" size="4">(Soliciting Contributions)</font></a>
 ---
 
 What is Lorem Ipsum?

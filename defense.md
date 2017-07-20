@@ -1,6 +1,6 @@
 ---
 layout: technical
-title: Defense Against the Dark Arts 
+title: Defense Against the Dark Arts <a href="/contribute"><font color="grey" size="4">(Soliciting Contributions)</font></a>
 ---
 
 What is Lorem Ipsum?

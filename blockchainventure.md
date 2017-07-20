@@ -1,6 +1,6 @@
 ---
 layout: investment
-title: Blockchain Investment for Venture Capitalists
+title: Blockchain Investment for Venture Capitalists <a href="/contribute"><font color="grey" size="4">(Soliciting Contributions)</font></a>
 ---
 
 What is Lorem Ipsum?

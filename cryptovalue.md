@@ -1,6 +1,6 @@
 ---
 layout: investment
-title: Seeing Value and Picking Cryptocurrencies
+title: Seeing Value and Picking Cryptocurrencies <a href="/contribute"><font color="grey" size="4">(Soliciting Contributions)</font></a>
 ---
 
 What is Lorem Ipsum?
