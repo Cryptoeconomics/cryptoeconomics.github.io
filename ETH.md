@@ -1,6 +1,6 @@
 ---
 layout: investment
-title: "Investment Advice: ETH &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp (In Progress)"
+title: Investment Advice - ETH <font color="grey" size="4">(In Progress)</font>
 ---
 
 What is Lorem Ipsum?
