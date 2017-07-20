@@ -3,4 +3,4 @@ layout: investment
 title: Quant, Trading, and Arbitrage <a href="/contribute"><font color="grey" size="4">(Soliciting Contributions)</font></a>
 ---
 
-<b>Chapter Summary:</b> How does one trade between currencies in the best way possible in order to aquire the most money? In this chapter trading between the hundreds of coins is clarified.
+<b>Chapter Summary:</b> How can we use data-driven strategies to find investment opportunities? Can technical analysis help traders? What kind of arbitrage opportunities are there in such a new, inefficient market? This chapter addresses these questions.
