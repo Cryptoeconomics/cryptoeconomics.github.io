@@ -19,13 +19,28 @@
       </header>  <!-- THIS IS A TERRIBLE HACK TO FIX THE SPACING. TODO: FIX -->
 
       <head>
-        <!-- @import url('https://fonts.googleapis.com/css?family=VT323');  -->
         <style>
-          a.masthead-title
+          @import url('https://fonts.googleapis.com/css?family=VT323'); 
+          a.code_highlighting_hack
           {
+
+          }
+
+          h3
+          {
+            font-size: 1.55em;
             font-family: 'VT323', monospace;
-            src: url"https://fonts.googleapis.com/css?family=VT323");
-            font-size: 27px
+            font-weight: normal;
+
+          }
+          h3.masthead-title.book-section
+          {
+            font-size: 1.4em;
+            margin-bottom: 10px;
+          }
+          h3.masthead-title.book-section.menu
+          {
+            margin-bottom: 2px;
           }
           u.dotted
           {
@@ -35,7 +50,7 @@
           hr.masthead
           {
             margin-top:0.1em;
-            margin-bottom:-0.25em;
+            margin-bottom:-1.4em;
             border-style: dotted; 
             color: #ff0000; 
 
@@ -52,15 +67,25 @@
           }
           img.intro 
           {
-            float: right; 
+            float: right;
+            width: 250px;
+            height: 250px;
+            margin-left: 18px;
+            margin-bottom: 5px;
+            border:2px solid black
           }
-          p.space
-          { 
-            margin:0 
-          }
-          p.space
+          p
           {
+            font-size: 0.95em;
             text-indent: 50px;
+            margin-bottom: 10px;
+            font-family: "comic sans", serif;
+          }
+          p.chapter
+          {
+            text-indent: 0px;
+            font-size: 0.97em;
+            margin-bottom: 10px;
           }
         </style>
       </head>
